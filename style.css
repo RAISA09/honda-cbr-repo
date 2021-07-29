@@ -1,0 +1,99 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* common style  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header style */
+.imam{
+    background-color:  #264653;
+}
+.adom{
+    margin-left: 76px;
+    margin-top: 60px;
+}
+.mahadi{
+    font-weight: 600;
+    font-size: 48px;
+}
+.habibi{
+    font-size: 14px;
+}
+.iman{
+    width: 456px;
+}
+.hawa{
+
+width: 552px;
+height: 447px;
+margin-top: 155px;
+padding-bottom: 20px;
+
+}
+/* modal style */
+.images{
+    background-color: #E76F51;
+}
+/* freture style */
+.boro{
+    color: #000000;
+
+}
+.fetured{
+    font-size: 14px;
+    font-weight: 600;
+    color: #E76F51;
+    order: 1;
+}
+.mejo{
+    margin-top: 64px;
+    margin-bottom: 120px;
+}
+.kule{
+    width: 288px;
+    height: 243px;
+    margin-left: 80px;
+    filter: grayscale(100);
+}
+.coto{
+    width: 288px;
+    height: 243px;
+    margin-left: 80px;
+}
+/* clients style */
+.tulu{
+    margin-top: 160px;
+}
+
+.doro{
+    color: #0A0826;
+}
+.tejo{
+    color: #E76F51;
+}
+.rafi{
+    left: calc(50% - 149px/2);
+    height: 149px;
+    width: 149px;
+    margin-top: 40px;
+}
+.hasan{
+    padding: 40px 35px;
+}
+.raisa{
+    width: 252px;
+    height: 104px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #6C6C6C;
+}
+.abir{
+    width: 130.07px;
+   height: 22.01px;
+    order: 1;
+}
+/* footer style */
+footer h4{
+    text-align: center;
+}
+
